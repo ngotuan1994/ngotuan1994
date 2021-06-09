@@ -18,11 +18,11 @@
 
  
   <a href="mailto:ngotuan911@gmail.com">
-    <img src="./img/icons/gmail.svg" width="26px"/>
+    <img src=".//gmail.svg" width="26px"/>
   </a>
   &emsp;
   <a href=" www.linkedin.com/in/tuanngo1994">
-    <img src="./img/icons/linkedin.svg" width="26px"/>
+    <img src="./linkedin.svg" width="26px"/>
   </a>
 <br>
 </div>
