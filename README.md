@@ -6,7 +6,7 @@
 <p> I'm an IT <strong>student</strong> with a passion for building <strong>highly usable web applications</strong>.</p>
 <br>
 <p>Web developer Student at California State University, Fullerton. Seeking Summer Internship For UI/UX and MERN-stack development roles. <p>
-<img src="./MyEmoji_20210609_052518_3351.gif" width="200px" height ="200px">
+<img src="./img/MyEmoji_20210609_052518_3351.gif" width="200px" height ="200px">
 
 <br>
 
@@ -18,11 +18,11 @@
 
  
   <a href="mailto:ngotuan911@gmail.com">
-    <img src=".//gmail.svg" width="26px"/>
+    <img src="./img/gmail.svg" width="26px"/>
   </a>
   &emsp;
   <a href=" www.linkedin.com/in/tuanngo1994">
-    <img src="./linkedin.svg" width="26px"/>
+    <img src="./img/linkedin.svg" width="26px"/>
   </a>
 <br>
 </div>
