@@ -21,7 +21,7 @@
     <img src="./img/gmail.svg" width="26px"/>
   </a>
   &emsp;
-  <a href=" www.linkedin.com/in/tuanngo1994">
+  <a href=" www.linkedin.com/in/ericngo14">
     <img src="./img/linkedin.svg" width="26px"/>
   </a>
 <br>
